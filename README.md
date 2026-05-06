@@ -189,7 +189,7 @@ This repository contains the complete **Lab File** for the subject **Data and Vi
 
 ## 🔍 Keywords
 
-`Data Analytics Lab File` · `Visual Analytics` · `AL-603B` · `RGPV Lab File` · `SAIT Indore` · `B.Tech AI Lab` · `EDA Python` · `Jupyter Notebook Lab` · `Data and Visual Analytics RGPV` · `DVA Lab File` · `AL603B RGPV` · `Data Science Lab RGPV Bhopal` · `Vivek Kumar Choudhary` · `0873AL231027`
+`Data Analytics Lab File` · `Visual Analytics` · `AL-605` · `RGPV Lab File` · `SAIT Indore` · `B.Tech AI Lab` · `EDA Python` · `Jupyter Notebook Lab` · `Data and Visual Analytics RGPV` · `DVA Lab File` · `AL603B RGPV` · `Data Science Lab RGPV Bhopal` · `Vivek Kumar Choudhary` · `0873AL231027`
 
 ---
 
